@@ -1,0 +1,253 @@
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe.config
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe.config
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\bin\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csprojResolveAssemblyReference.cache
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAnasayfa.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.Properties.Resources.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.GenerateResource.Cache
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\4- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe.config
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\bin\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csprojResolveAssemblyReference.cache
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAnasayfa.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.Properties.Resources.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.GenerateResource.Cache
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmYeniAracEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracSil.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriSil.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelSil.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciSil.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\2- Okul\2- Sistem Analizi ve Tasarımı\PROJE\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGuncelle.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\bin\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csprojResolveAssemblyReference.cache
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAnasayfa.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracSil.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGuncelle.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGuncelle.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelIslemleri.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracIslemleri.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriIslemleri.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmYeniAracEkle.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriEkle.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriSil.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelEkle.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelSil.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciIslemleri.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciSil.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGuncelle.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelle.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.Properties.Resources.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.GenerateResource.Cache
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe.config
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\bin\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csprojResolveAssemblyReference.cache
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAnasayfa.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracSil.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmYeniAracEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriSil.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelSil.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciSil.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.Properties.Resources.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.GenerateResource.Cache
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAramaYapma.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmHakkimda.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmSozlesmeIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracKirala.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelleme.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracTeslim.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\Araç Kiralama\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmRapor.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAramaYapma.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmHakkimda.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaIslemleri.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogIslemleri.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmSozlesmeIslemleri.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracKirala.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelleme.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracTeslim.resources
+C:\Users\bugra\Desktop\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmRapor.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe.config
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\bin\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csprojResolveAssemblyReference.cache
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAnasayfa.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracSil.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAramaYapma.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmHakkimda.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmYeniAracEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriSil.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelSil.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciSil.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmSozlesmeIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracKirala.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelleme.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracTeslim.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.Properties.Resources.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.GenerateResource.Cache
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmGiris.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmGirisAyarlari.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAcilis.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaOdemeSekli.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciKullaniciTuru.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriMeslek.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGorev.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmSozlesmeGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracMarka.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\RdlCompile.cache
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\RdlCompile.compiled
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\bin\Debug\aracKiralama.accdb
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmTanimlamaFiyatlandirma.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\Proje\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogHataYeri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe.config
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\bin\Debug\aracKiralama.accdb
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\bin\Debug\aracKiralama.exe
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\bin\Debug\aracKiralama.pdb
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csprojResolveAssemblyReference.cache
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAcilis.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAnasayfa.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracSil.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAramaYapma.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmHakkimda.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmYeniAracEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriSil.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelEkle.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelSil.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciSil.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelle.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmSozlesmeIslemleri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracKirala.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelleme.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracTeslim.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmGiris.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmGirisAyarlari.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaOdemeSekli.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciKullaniciTuru.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriMeslek.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGorev.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmSozlesmeGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracMarka.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmTanimlamaFiyatlandirma.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogGenel.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogHataYeri.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.Properties.Resources.resources
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.GenerateResource.Cache
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\RdlCompile.cache
+C:\Users\bugra\Desktop\Dosyalar\aracKiralama\aracKiralama\obj\Debug\RdlCompile.compiled
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.AssemblyReference.cache
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAcilis.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAnasayfa.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracSil.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAramaYapma.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmHakkimda.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaIslemleri.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGuncelle.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGuncelle.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelIslemleri.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracIslemleri.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriIslemleri.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmYeniAracEkle.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriEkle.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriSil.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelEkle.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelSil.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciIslemleri.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciSil.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGuncelle.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelle.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogIslemleri.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmSozlesmeIslemleri.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracKirala.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGuncelleme.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracTeslim.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmGiris.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmGirisAyarlari.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaGenel.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKiralamaOdemeSekli.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciGenel.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmKullaniciKullaniciTuru.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriGenel.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmMusteriMeslek.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGenel.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmPersonelGorev.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmSozlesmeGenel.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracGenel.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmAracMarka.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmTanimlamaFiyatlandirma.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogGenel.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.FrmLogHataYeri.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.Properties.Resources.resources
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.GenerateResource.cache
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.exe
+C:\Users\bugra\Masaüstü\Dosyalarım\Budotekno\1- Projelerim\aracKiralama\aracKiralama\obj\Debug\aracKiralama.pdb

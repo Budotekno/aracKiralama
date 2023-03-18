@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FAF1BCD2-5991-4413-96B0-7350EA560077}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>aracKiralama</RootNamespace>
+    <AssemblyName>aracKiralama</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aracKiralamaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>aracKiralamaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Classlar\ClsVeriTabaniIslemleri.cs" />
+    <Compile Include="Classlar\ClsResimIslemleri.cs" />
+    <Compile Include="Classlar\ClsLogIslemleri.cs" />
+    <Compile Include="Formlar\Anasayfa\FrmAnasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\FrmAnasayfa.Designer.cs">
+      <DependentUpon>FrmAnasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelIslemleri.Designer.cs">
+      <DependentUpon>FrmPersonelIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classlar\Program.cs" />
+    <Compile Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracIslemleri.Designer.cs">
+      <DependentUpon>FrmAracIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriIslemleri.Designer.cs">
+      <DependentUpon>FrmMusteriIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmYeniAracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmYeniAracEkle.Designer.cs">
+      <DependentUpon>FrmYeniAracEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriEkle.Designer.cs">
+      <DependentUpon>FrmMusteriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracSil.Designer.cs">
+      <DependentUpon>FrmAracSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriSil.Designer.cs">
+      <DependentUpon>FrmMusteriSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelEkle.Designer.cs">
+      <DependentUpon>FrmPersonelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelSil.Designer.cs">
+      <DependentUpon>FrmPersonelSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciIslemleri.Designer.cs">
+      <DependentUpon>FrmKullaniciIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciSil.Designer.cs">
+      <DependentUpon>FrmKullaniciSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciGuncelle.Designer.cs">
+      <DependentUpon>FrmKullaniciGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelGuncelle.Designer.cs">
+      <DependentUpon>FrmPersonelGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracGuncelle.Designer.cs">
+      <DependentUpon>FrmAracGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriGuncelle.Designer.cs">
+      <DependentUpon>FrmMusteriGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\FrmAramaYapma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\FrmAramaYapma.Designer.cs">
+      <DependentUpon>FrmAramaYapma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\FrmHakkimda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\FrmHakkimda.Designer.cs">
+      <DependentUpon>FrmHakkimda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\FrmLogIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\FrmLogIslemleri.Designer.cs">
+      <DependentUpon>FrmLogIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmKiralamaIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmKiralamaIslemleri.Designer.cs">
+      <DependentUpon>FrmKiralamaIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Sozlesme\FrmSozlesmeIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Sozlesme\FrmSozlesmeIslemleri.Designer.cs">
+      <DependentUpon>FrmSozlesmeIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracKirala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracKirala.Designer.cs">
+      <DependentUpon>FrmAracKirala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracGuncelleme.Designer.cs">
+      <DependentUpon>FrmAracGuncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracTeslim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracTeslim.Designer.cs">
+      <DependentUpon>FrmAracTeslim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\GirisEkrani\FrmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\GirisEkrani\FrmGiris.Designer.cs">
+      <DependentUpon>FrmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\FrmGirisAyarlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\FrmGirisAyarlari.Designer.cs">
+      <DependentUpon>FrmGirisAyarlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Acilis\FrmAcilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Acilis\FrmAcilis.Designer.cs">
+      <DependentUpon>FrmAcilis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKiralamaGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKiralamaGenel.Designer.cs">
+      <DependentUpon>FrmKiralamaGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKiralamaOdemeSekli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKiralamaOdemeSekli.Designer.cs">
+      <DependentUpon>FrmKiralamaOdemeSekli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKullaniciGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKullaniciGenel.Designer.cs">
+      <DependentUpon>FrmKullaniciGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKullaniciKullaniciTuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKullaniciKullaniciTuru.Designer.cs">
+      <DependentUpon>FrmKullaniciKullaniciTuru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmMusteriGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmMusteriGenel.Designer.cs">
+      <DependentUpon>FrmMusteriGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmMusteriMeslek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmMusteriMeslek.Designer.cs">
+      <DependentUpon>FrmMusteriMeslek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmPersonelGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmPersonelGenel.Designer.cs">
+      <DependentUpon>FrmPersonelGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmPersonelGorev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmPersonelGorev.Designer.cs">
+      <DependentUpon>FrmPersonelGorev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmSozlesmeGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmSozlesmeGenel.Designer.cs">
+      <DependentUpon>FrmSozlesmeGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmAracGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmAracGenel.Designer.cs">
+      <DependentUpon>FrmAracGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmAracMarka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmAracMarka.Designer.cs">
+      <DependentUpon>FrmAracMarka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Tanimlamalar\FrmTanimlamaFiyatlandirma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Tanimlamalar\FrmTanimlamaFiyatlandirma.Designer.cs">
+      <DependentUpon>FrmTanimlamaFiyatlandirma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmLogGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmLogGenel.Designer.cs">
+      <DependentUpon>FrmLogGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmLogHataYeri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmLogHataYeri.Designer.cs">
+      <DependentUpon>FrmLogHataYeri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formlar\Acilis\FrmAcilis.resx">
+      <DependentUpon>FrmAcilis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\FrmAnasayfa.resx">
+      <DependentUpon>FrmAnasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracSil.resx">
+      <DependentUpon>FrmAracSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\FrmAramaYapma.resx">
+      <DependentUpon>FrmAramaYapma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\FrmHakkimda.resx">
+      <DependentUpon>FrmHakkimda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmKiralamaIslemleri.resx">
+      <DependentUpon>FrmKiralamaIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciGuncelle.resx">
+      <DependentUpon>FrmKullaniciGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriGuncelle.resx">
+      <DependentUpon>FrmMusteriGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelIslemleri.resx">
+      <DependentUpon>FrmPersonelIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracIslemleri.resx">
+      <DependentUpon>FrmAracIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriIslemleri.resx">
+      <DependentUpon>FrmMusteriIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmYeniAracEkle.resx">
+      <DependentUpon>FrmYeniAracEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriEkle.resx">
+      <DependentUpon>FrmMusteriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\MusteriIslemleri\FrmMusteriSil.resx">
+      <DependentUpon>FrmMusteriSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelEkle.resx">
+      <DependentUpon>FrmPersonelEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelSil.resx">
+      <DependentUpon>FrmPersonelSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciIslemleri.resx">
+      <DependentUpon>FrmKullaniciIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\KullaniciIslemleri\FrmKullaniciSil.resx">
+      <DependentUpon>FrmKullaniciSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\PersonelIslemleri\FrmPersonelGuncelle.resx">
+      <DependentUpon>FrmPersonelGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\AracIslemleri\FrmAracGuncelle.resx">
+      <DependentUpon>FrmAracGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\FrmLogIslemleri.resx">
+      <DependentUpon>FrmLogIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Sozlesme\FrmSozlesmeIslemleri.resx">
+      <DependentUpon>FrmSozlesmeIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracKirala.resx">
+      <DependentUpon>FrmAracKirala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracGuncelleme.resx">
+      <DependentUpon>FrmAracGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\KiralamaIslemleri\FrmAracTeslim.resx">
+      <DependentUpon>FrmAracTeslim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\GirisEkrani\FrmGiris.resx">
+      <DependentUpon>FrmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\FrmGirisAyarlari.resx">
+      <DependentUpon>FrmGirisAyarlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKiralamaGenel.resx">
+      <DependentUpon>FrmKiralamaGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKiralamaOdemeSekli.resx">
+      <DependentUpon>FrmKiralamaOdemeSekli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKullaniciGenel.resx">
+      <DependentUpon>FrmKullaniciGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmKullaniciKullaniciTuru.resx">
+      <DependentUpon>FrmKullaniciKullaniciTuru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmMusteriGenel.resx">
+      <DependentUpon>FrmMusteriGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmMusteriMeslek.resx">
+      <DependentUpon>FrmMusteriMeslek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmPersonelGenel.resx">
+      <DependentUpon>FrmPersonelGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmPersonelGorev.resx">
+      <DependentUpon>FrmPersonelGorev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmSozlesmeGenel.resx">
+      <DependentUpon>FrmSozlesmeGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmAracGenel.resx">
+      <DependentUpon>FrmAracGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmAracMarka.resx">
+      <DependentUpon>FrmAracMarka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Tanimlamalar\FrmTanimlamaFiyatlandirma.resx">
+      <DependentUpon>FrmTanimlamaFiyatlandirma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmLogGenel.resx">
+      <DependentUpon>FrmLogGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\RaporForm\FrmLogHataYeri.resx">
+      <DependentUpon>FrmLogHataYeri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptAracGenel.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptAracMarka.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptKiralamaGenel.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptKiralamaOdemeSekli.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptKullaniciGenel.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptKullaniciKullaniciTuru.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptMusteriGenel.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptMusteriMeslek.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptPersonelGenel.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptPersonelGorev.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptSozlesmeGenel.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptLogGenel.rdlc" />
+    <EmbeddedResource Include="Formlar\Anasayfa\UstMenu\Diger\Raporlar\Report\RptLogHataYeri.rdlc" />
+    <None Include="aracKiralamaDataSet.xsc">
+      <DependentUpon>aracKiralamaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="aracKiralamaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>aracKiralamaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="aracKiralamaDataSet.xss">
+      <DependentUpon>aracKiralamaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kullaniciIslemleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personelIslemleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aracIslemleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musteriIslemleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cikis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aramaIslemleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sozlesme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hakkimda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_contract_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tanimlamalar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aracEkle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aracSil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aracGuncelle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_car_rental_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_traffic_jam_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listele.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_denied_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guncelle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="aracKiralama.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="logo.ico" />
+    <None Include="Resources\fiyatlandirma.png" />
+    <None Include="Resources\sözleşmeiptal.png" />
+    <None Include="Resources\sözleşmeGuncelle.png" />
+    <None Include="Resources\sözleşmeEkle.png" />
+    <None Include="Resources\sözleşmeListele.png" />
+    <None Include="Resources\araçgüncelle.png" />
+    <None Include="Resources\aracteslim.png" />
+    <None Include="Resources\araçkirala.png" />
+    <None Include="Resources\araclistle.png" />
+    <None Include="Resources\arkaplan2.jpg" />
+    <None Include="Resources\arkaplan3.jpg" />
+    <None Include="Resources\Logo1.png" />
+    <None Include="Resources\Kilit Ekranı.jpg" />
+    <None Include="Resources\raporlar.png" />
+    <None Include="Resources\gözKapali.png" />
+    <None Include="Resources\göz.png" />
+    <None Include="Resources\Logo.png" />
+    <None Include="Resources\giris1.png" />
+    <None Include="Resources\giris.png" />
+    <None Include="Resources\foto.png" />
+    <None Include="Resources\renkler.png" />
+    <None Include="Resources\arkaplan1.png" />
+    <None Include="Resources\log.png" />
+    <None Include="Resources\diger.png" />
+    <None Include="Resources\hakkimda2.png" />
+    <None Include="Resources\kiralamIslemleri.png" />
+    <None Include="Resources\arkaplan2.png" />
+    <None Include="Resources\arkaplan.png" />
+    <None Include="Resources\tumAraclar.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
